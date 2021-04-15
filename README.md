@@ -10,9 +10,9 @@ Path planning algorithms are:
   6. RRT connect
   7. RRT star
 
-The algorithms are written seperately in JavaScript under folder algorithm.
-
 ### Usage
+
+To see kineval in action, open search_canvas.html in a web browser. Firefox 29.0 through 41.0 works for sure. Chrome and Opera will throw security errors when loading local files from JavaScript (which feels like forcing people into the cloud).
 
 The planner will start upon browser loading this file, with execution parameters specifing:
 
